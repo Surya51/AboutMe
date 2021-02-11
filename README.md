@@ -37,6 +37,10 @@ Technologies that are used in the applications are:
 * Run the API application and before running make sure `AboutMe.API` is start up project.
 * You can see the web application running.
 
+Below is the output you get when you run the above steps.
+
+![output image](https://github.com/Surya51/sample-presentation/blob/master/src/assets/AboutMeOutput.png)
+
 ### Author
 
 * **Surya Teja Vinukonda**
