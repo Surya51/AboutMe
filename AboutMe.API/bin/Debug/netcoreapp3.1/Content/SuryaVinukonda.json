@@ -1,0 +1,126 @@
+{
+  "Name": "Surya Vinukonda",
+  "Location": "Hyderabad, India",
+  "LinkedIn": "https://www.linkedin.com/in/surya-teja-vinukonda/",
+  "EmailID": "teja.surya18@gmail.com",
+  "Mobile": "9030422785",
+  "Skype": "teja.surya51",
+  "ProfilePic": "SuryaVinukonda.jpg",
+  "Summary": {
+    "Description": "Accomplished IT professional with 6+ years of progressive experience in multifaceted work environments. Hands-on experience in designing, implementing, supporting and managing various web and desktop applications using UI frameworks like Angular and React with Microsoft Technologies.",
+    "SummaryList": [
+      "Extensive experience using C#, ASP.NET MVC, ASP.NET Core, EF, LINQ.",
+      "Expertise in Angular 7, React.js, Redux, Angular JS, JQuery, JavaScript, HTML5, CSS3 and Bootstrap.",
+      "Good working knowledge of SQL Server and have knowledge on Cosmos.",
+      "Experience in exception handling, debugging and analyzing the runtime behavior of the applications.",
+      "Good knowledge on different domains such as Health care, Insurance, E-Comm.",
+      "Good knowledge on CI/CD tools with cloud like Azure Devops.",
+      "Worked effectively in agile methodolgy with agile tools such as Azure DevOps, JIRA in integration with Bitbucket (Git).",
+      "Ability to work independently and under pressure on multiple tasks."
+    ]
+  },
+  "TechnicalSkills": [
+    {
+      "TechStack": "Web Technologies",
+      "Technologies": [
+        "Angular",
+        "React.js",
+        "Redux",
+        "Vue.js",
+        "AngularJS",
+        "JQuery",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "TechStack": "Microsoft Technologies",
+      "Technologies": [
+        "C#",
+        "ASP.NET",
+        "MVC",
+        "ASP.NET",
+        "Core",
+        "VB.NET",
+        "Web",
+        "API",
+        "ADO.NET",
+        "Entity Framework",
+        "LINQ",
+        "WCF",
+        "WPF"
+      ]
+    },
+    {
+      "TechStack": "Cloud Technologies",
+      "Technologies": [
+        "Microsoft Azure"
+      ]
+    },
+    {
+      "TechStack": "Databases",
+      "Technologies": [
+        "MS SQL Server",
+        "Cosmos"
+      ]
+    },
+    {
+      "TechStack": "Version Control",
+      "Technologies": [
+        "Azure DevOps",
+        "Bitbucket(Git)",
+        "TFS",
+        "Visual Source Safe",
+        "Tortoise SVN"
+      ]
+    },
+    {
+      "TechStack": "IDE",
+      "Technologies": [
+        "Visual Studio Code",
+        "Visual Studio",
+        "SQL Server Management Studio"
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "Company": "PDI Software India LLP.",
+      "Role": "Software Engineer III",
+      "StartDate": "April 2020",
+      "EndDate": "Present"
+    },
+    {
+      "Company": "Capgemini Technology Services India Ltd.",
+      "Role": "Consultant",
+      "StartDate": "May 2018",
+      "EndDate": "Nov 2019"
+    },
+    {
+      "Company": "Altruista Health Services Pvt. Ltd.",
+      "Role": ".NET Developer",
+      "StartDate": "May 2016",
+      "EndDate": "April 2018"
+    },
+    {
+      "Company": "Gagri Global IT Services Pvt. Ltd.",
+      "Role": "Software Developer",
+      "StartDate": "April 2014",
+      "EndDate": "May 2016"
+    }
+  ],
+  "Education": [
+    {
+      "College": "Jawaharlal Technological University, Hyderabad",
+      "Degree": "Bachelors of Technology",
+      "Duration": "2009-2013"
+    }
+  ],
+  "Hobbies": [
+    "Movies",
+    "Games",
+    "Music"
+  ]
+}
